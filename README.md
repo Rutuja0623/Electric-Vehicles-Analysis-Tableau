@@ -49,6 +49,3 @@ This dashboard is designed for stakeholders in the electric vehicle industry, po
 The dashboard is available on Tableau and can be accessed through the following link:  
 [Electric Vehicle Analysis Dashboard](https://public.tableau.com/app/profile/rutuja.pawar2514/viz/ElectricVehiclesDataAnalysis_17268003262700/Dashboard1)
 
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [Your Email Address].
